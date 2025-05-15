@@ -1,6 +1,6 @@
 # 🚀 Plano de Estudos: Backend com Java + IntelliJ
 
-## O que vou aprender
+## O que eu vou aprender
 
 ### ☕ Fundamentos Java
 - Configurar ambiente (JDK + IntelliJ)
