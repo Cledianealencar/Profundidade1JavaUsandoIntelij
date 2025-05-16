@@ -1,0 +1,18 @@
+// exercicio 4 tabuada
+
+import java.util.Scanner;
+
+public class Exercicio4_Tabuada {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Digite um numero para ver a tabuada:");
+        int num = scanner.nextInt();
+
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(num + " x " + i + " = " + (num * i));
+        }
+
+        scanner.close();
+    }
+}
