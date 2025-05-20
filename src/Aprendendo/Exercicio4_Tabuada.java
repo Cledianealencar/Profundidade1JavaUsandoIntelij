@@ -1,4 +1,4 @@
-// exercicio 4 tabuada
+package Aprendendo;// exercicio 4 tabuada
 
 import java.util.Scanner;
 

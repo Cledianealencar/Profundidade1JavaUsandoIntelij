@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class Exercicio2Encapsulamento {
     private double saldo;
 

@@ -1,4 +1,4 @@
-// exercicio 1 - criando uma classe Pessoa e mostrando os dados
+package Aprendendo;// exercicio 1 - criando uma classe Aprendendo.Pessoa e mostrando os dados
 
 public class Main {
     public static void main(String[] args){

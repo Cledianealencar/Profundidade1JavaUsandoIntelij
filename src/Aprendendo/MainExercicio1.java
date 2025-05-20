@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class MainExercicio1 {
     public static void main(String[] args){
         Exercicio1Construtor ex = new Exercicio1Construtor("Diane", 19);

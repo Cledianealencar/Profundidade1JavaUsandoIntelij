@@ -1,4 +1,4 @@
-// exercicio 6 metodos
+package Aprendendo;// exercicio 6 metodos
 
 import java.util.Scanner;
 

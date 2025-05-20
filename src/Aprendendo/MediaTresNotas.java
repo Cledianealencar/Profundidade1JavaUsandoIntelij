@@ -1,3 +1,5 @@
+package Aprendendo;
+
 import java.util.Scanner;
 
 public class MediaTresNotas {

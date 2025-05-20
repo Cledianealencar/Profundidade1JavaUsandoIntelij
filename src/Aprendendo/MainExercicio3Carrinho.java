@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class MainExercicio3Carrinho {
     public static void main(String[] args) {
         Produto p1 = new Produto("caneta", 2.5);

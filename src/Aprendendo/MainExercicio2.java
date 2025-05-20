@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class MainExercicio2 {
     public static void main(String[] args){
     //cria uma conta

@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class MainExercicio2Pessoas {
     public static void main(String[] args) {
         Pessoas p = new Pessoas();

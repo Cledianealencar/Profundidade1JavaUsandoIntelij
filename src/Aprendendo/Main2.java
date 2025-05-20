@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class Main2 {
     public static void main(String[] args){
         Produto2 p2 = new Produto2();

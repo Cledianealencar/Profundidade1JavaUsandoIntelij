@@ -1,3 +1,5 @@
+package Aprendendo;
+
 // exercicio 3 - getters e setters
 public class Exercicio3GetSet {
     String nome;

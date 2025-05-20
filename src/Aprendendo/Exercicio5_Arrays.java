@@ -1,4 +1,4 @@
-// exercicio 5 arrays
+package Aprendendo;// exercicio 5 arrays
 
 import java.util.Scanner;
 

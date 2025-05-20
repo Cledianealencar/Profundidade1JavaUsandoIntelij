@@ -1,4 +1,4 @@
-// exercicio 3 estrutura de repeticao - for
+package Aprendendo;// exercicio 3 estrutura de repeticao - for
 
 public class Exercicio3_Repeticao {
     public static void main(String[] args) {
