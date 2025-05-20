@@ -1,3 +1,5 @@
+package Aprendendo;
+
 public class Endereco {
     String estado;
     String cidade;

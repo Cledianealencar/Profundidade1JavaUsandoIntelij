@@ -1,3 +1,5 @@
+package Aprendendo;
+
 //um carrinho que recebe produtos
 public class Carrinho {
     //adicionar um produto no carrinho

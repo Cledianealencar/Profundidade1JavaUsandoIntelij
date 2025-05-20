@@ -1,4 +1,4 @@
-// exercicio 2 operadores relacionais e logicos
+package Aprendendo;// exercicio 2 operadores relacionais e logicos
 
 import java.util.Scanner;
 

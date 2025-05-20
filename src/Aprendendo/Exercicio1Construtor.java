@@ -1,4 +1,4 @@
-// exercicio 1 - construtor
+package Aprendendo;// exercicio 1 - construtor
 
 public class Exercicio1Construtor {
     String nome;

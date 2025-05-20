@@ -1,4 +1,4 @@
-// exercicio 1 condicionais
+package Aprendendo;// exercicio 1 condicionais
 
 import java.util.Scanner;
 
